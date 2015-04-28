@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ffmpeg", "ffmpeg.vcxproj", "{AC1479D7-0CD8-4231-BAF4-98F20780F99F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OutScreen", "..\OutScreen\OutScreen.vcxproj", "{B60745A9-2B77-471F-81F6-439E242BC7FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC1479D7-0CD8-4231-BAF4-98F20780F99F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AC1479D7-0CD8-4231-BAF4-98F20780F99F}.Debug|Win32.Build.0 = Debug|Win32
+		{AC1479D7-0CD8-4231-BAF4-98F20780F99F}.Release|Win32.ActiveCfg = Release|Win32
+		{AC1479D7-0CD8-4231-BAF4-98F20780F99F}.Release|Win32.Build.0 = Release|Win32
+		{B60745A9-2B77-471F-81F6-439E242BC7FD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B60745A9-2B77-471F-81F6-439E242BC7FD}.Debug|Win32.Build.0 = Debug|Win32
+		{B60745A9-2B77-471F-81F6-439E242BC7FD}.Release|Win32.ActiveCfg = Release|Win32
+		{B60745A9-2B77-471F-81F6-439E242BC7FD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

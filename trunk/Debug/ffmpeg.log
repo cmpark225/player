@@ -1,0 +1,11 @@
+﻿빌드 시작: 2015-04-27 오후 4:45:29
+     1>2 노드의 "C:\Users\cmpark\Desktop\ffmpeg\ffmpeg.vcxproj" 프로젝트(Build 대상)입니다.
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\cmpark\Desktop\ffmpeg\Debug\ffmpeg.exe" /INCREMENTAL /NOLOGO /LIBPATH:./ffmpeg/lib /LIBPATH:"C:\SDL-1.2.15\lib\x86" "avcodec-gp.lib" "avfilter-gp.lib" "avformat-gp.lib" "avutil-gp.lib" "swresample-gp.lib" "swscale-gp.lib" SDL.lib SDLmain.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\cmpark\Desktop\ffmpeg\Debug\ffmpeg.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\cmpark\Desktop\ffmpeg\Debug\ffmpeg.lib" /MACHINE:X86 Debug\FFmpegPlayer.obj
+         Debug\main.obj
+     1>LINK : fatal error LNK1168: C:\Users\cmpark\Desktop\ffmpeg\Debug\ffmpeg.exe을(를) 쓰기용으로 열 수 없습니다.
+     1>"C:\Users\cmpark\Desktop\ffmpeg\ffmpeg.vcxproj" 프로젝트를 빌드했습니다(Build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.47
